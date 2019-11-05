@@ -1,0 +1,8 @@
+tr{
+height:50px;
+width:200px;
+}
+
+tr:nth-child(odd) > td:nth-child(odd){
+background-color:#DBDBDB;
+}
